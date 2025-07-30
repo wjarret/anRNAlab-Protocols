@@ -27,7 +27,7 @@ Equipment Required:
   
 Protocol:
 --------------------------------------------------------------------------------
-### Part 1: Ligation with RNA Ligase (~15 minute prep, 2 hour ligation)
+### Part 1: Ligation with RNA Ligase (~15 minute prep, overnight ligation)
 
 **1.** Assemble the ligation reaction. <br/>If using less than 10 µM RNA, adjust adapter to 2X RNA concentration.
 
@@ -43,17 +43,19 @@ Protocol:
 
   _Note: PEG-8000 is super viscous, be careful that you add the correct amount._ <br/> _Ensure all components are mixed thoroughly by tapping and spinning down._
 
-**2.** Ligate the RNA at 25 °C for 2 hours.
+**2.** Combine RNA, preA adapter, and nuclease-free water. Denature the mixture at 70 °C for 3 minutes, then immediately place it on ice for 2 minutes. <br/> _Note: this step is important for removing RNA secondary structure._
+
+**3.** Assemble the remainder of the reaction on ice and ligate the RNA at 16 °C overnight (12–16 hours).
 
 ### Part 2: Removal of excess adapter and purification of reaction products (2.5 hours)
 
-**3.** Dilute ligation reaction to 50 µL with ddH<sub/>2</sub>O. <br/> _Note: this step is critical for the enzymes to be active._
+**4.** Dilute ligation reaction to 50 µL with ddH<sub/>2</sub>O. <br/> _Note: this step is critical for the enzymes to be active._
 
-**4.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
+**5.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
 
-**5.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
+**6.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
 
-**6.** Chelate Magnesium in the buffer by quenching reaction with 22 µL (1 reaction volume) of 25 mM EDTA.
+**7.** Chelate Magnesium in the buffer by quenching reaction with 52 µL (1 reaction volume) of 25 mM EDTA.
 
-**7.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
+**8.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
 
