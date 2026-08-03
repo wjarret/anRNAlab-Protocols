@@ -13,7 +13,6 @@ or [AMPure and RNAClean XP beads)](https://www.beckman.com/reagents/genomic/clea
 Equipment Required:
 --------------------------------------------------------------------------------
   
-  * 37 °C heat block or thermocycler
   * Magnetic separation rack
      
 ___
