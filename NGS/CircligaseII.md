@@ -1,16 +1,16 @@
-Title: CircLigase II
-================================================================================
-Description: Cicularizing circularize RNA or DNA with Circ-Ligase II.
+## CircLigase II
+--------------------------------------------------------------------------------
 
-[Go To Protocol](#protocol)
+Description: Circularize RNA or DNA with Circ-Ligase II.
 
-Before starting:
+* [Go To Protocol](#protocol)
+
+### Before starting:
 --------------------------------------------------------------------------------
 * [CircLigase II ssDNA Ligase Manual](https://biosearchtech.a.bigcontent.io/v1/static/manual_NXGENZ-003_CircLigase-II-ssDNA-Ligase)
 
-Materials:
+### Materials:
 --------------------------------------------------------------------------------
-### Day 1
   * Nuclease-Free Water  
   * Single-stranded DNA or RNA template  
   * CircLigase II 10X Reaction Buffer  
@@ -18,20 +18,18 @@ Materials:
   * 5 M Betaine (optional)  
   * CircLigase II ssDNA Ligase (100 U)  
 
-<!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
 
-Equipment Required:
+### Equipment Required:
 --------------------------------------------------------------------------------
 Thermocycler or Heat Block
 
+<br/> 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+### Protocol:
 
-<!-- Use <br/> to fill in first page -->
-___
-Protocol:
 --------------------------------------------------------------------------------
-### Day 1
+
+
 **1.**  Mix each of the following components for each sample:
 
   | Component | Concentration | Quantity | 
@@ -43,33 +41,11 @@ Protocol:
   | CircLigase II ssDNA Ligase | 100 U | **1**  µL |
   | ddH2O |X| **X**  µL |
   || **Total** | **20** µL |
-  
-  <!-- : in the pipes specify justification -->
-  <!-- **X** bolds the inside -->
-  
- **2.** Incubate the reaction at 60 °C for 1 hour.
-  _Note:  Longer incubation times may improve the yield of circular ssDNA for difficult-to-ligate ssDNAs._
+
+ **2.** Incubate the reaction at 60 °C for 1 hour, followed by 80 °C for 10 minutes to denature enzyme.
+ 
+ * _Note:  Longer incubation times may improve the yield of circular ssDNA for difficult-to-ligate ssDNA's. The manual reports some ssDNA's going to completion with 1 M betaine after 16 h._
 
  **3.** Purify using [SPRI beads](../NGS/SPRI-beads.md) or column.
 
 
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
-
-<details>
-  <summary>Next Steps</summary>
-  
-</p> <a href="./path-to-file/file1.ext">
-LINK1 NAME</a>
-
-</p> <a href="./path-to-other-file/file2.ext">
-LINK2 NAME</a>
-
-</details>
-
-<details>
-  <summary>More Info</summary>
-  
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
-WEBSITE LINK NAME</a>  
-
-</details>
